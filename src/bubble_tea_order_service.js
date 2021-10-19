@@ -1,3 +1,4 @@
+//dependencies of the file
 const bubbleTeaMessenger = require('./bubble_tea_messenger');
 const logMessage = require('./simple_logger');
 
